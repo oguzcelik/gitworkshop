@@ -1,2 +1,2 @@
-Merhaba git
+Merhaba Git
 #gdgistanbul
